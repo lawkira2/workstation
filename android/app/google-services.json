@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "825672404185",
+    "firebase_url": "https://workstation-f01fe.firebaseio.com",
+    "project_id": "workstation-f01fe",
+    "storage_bucket": "workstation-f01fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825672404185:android:c304a1a03a21039f",
+        "android_client_info": {
+          "package_name": "com.variable.prostationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825672404185-6ukrll88moihgrdu5pj762rvd8090kki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.variable.prostationapp",
+            "certificate_hash": "135af2cf18787e18ca9692db1622ee72b09343eb"
+          }
+        },
+        {
+          "client_id": "825672404185-5pbucmhrokvmper5lneka6631s0hc933.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIkFi9T4ntyEuAuo-TdT2WSy3zDmk2NZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825672404185-5pbucmhrokvmper5lneka6631s0hc933.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
